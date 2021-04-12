@@ -1,0 +1,821 @@
+[
+  {
+    "id": 36,
+    "name": "\u0414\u0435\u0433\u0438\u0434\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b Vegeta \u0421\u0443\u043f \u0433\u0440\u0438\u0431\u043d\u043e\u0439 \u0441 \u0432\u0435\u0440\u043c\u0438\u0448\u0435\u043b\u044c\u044e 40\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3977919.jpg",
+    "plu": 3977919,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 34.49,
+      "price_promo__min": 29.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 97,
+    "name": "\u0418\u0437\u0434\u0435\u043b\u0438\u044f \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u043d\u044b\u0435 \u0433\u0440\u0443\u043f\u043f\u0430 \u0410, \u0432\u044b\u0441\u0448\u0438\u0439 \u0441\u043e\u0440\u0442, \u044f\u0438\u0447\u043d\u044b\u0435: \u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043a\u0438 \u0434\u043b\u044f \u0441\u0443\u043f\u0447\u0438\u043a\u0430 250\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4075782.jpg",
+    "plu": 4075782,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23918,
+    "name": "\u0414\u0418\u0410\u0414\u0410\u0420 \u041e\u0442\u0440\u0443\u0431\u0438 \u0445\u0440\u0443\u0441\u0442\u044f\u0449\u0438\u0435 \u043e\u0432\u0441\u044f\u043d\u044b\u0435 200\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3388018.jpg",
+    "plu": 3388018,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23957,
+    "name": "\u0421\u043e\u0443\u0441 \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 Thai-so, \u0441\u043e\u0435\u0432\u044b\u0439, 250 \u043c\u043b",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3484963.jpg",
+    "plu": 3484963,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 38.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23946,
+    "name": "\u0426\u0438\u043a\u043e\u0440\u0438\u0439 \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0427\u0430\u0448\u043a\u0430, \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0438\u043c\u044b\u0439, 85 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3462819.jpg",
+    "plu": 3462819,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 67.95,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23922,
+    "name": "\u0421\u042d\u041d \u0421\u041e\u0419 \u0421\u043e\u0443\u0441 \u0422\u0415\u0420\u0418\u042f\u041a\u0418 \u041f\u0420\u0415\u041c\u0418\u0423\u041c \u0441\u0442\u043e\u043b\u043e\u0432.120\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3408179.jpg",
+    "plu": 3408179,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19787,
+    "name": "\u0421\u043d\u0435\u043a\u0438 \u0445\u0440\u0443\u0441\u0442\u044f\u0449\u0438\u0435 \"\u041b\u0443\u043a\u043e\u0432\u044b\u0435 \u043a\u043e\u043b\u044c\u0446\u0430 \u0417\u043e\u043b\u043e\u0442\u044b\u0435\" \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u0441\u043c\u0435\u0442\u0430\u043d\u044b \u0438 \u043b\u0443\u043a\u0430, 100 \u0433\u0440",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3943730.jpg",
+    "plu": 3943730,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 51.49,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 26,
+    "name": "\u041a\u0435\u0442\u0447\u0443\u043f \u043f\u0435\u0440\u0432\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u041c\u0430\u0445\u0435\u0435\u0432\u044a \"\u0427\u0438\u043b\u0438\" \u043f\u0430\u043a\u0435\u0442 \u0414\u041e\u0419-\u041f\u0410\u041a \u0441 \u0434\u043e\u0437\u0430\u0442\u043e\u0440\u043e\u043c 300 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3941585.jpg",
+    "plu": 3941585,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 76,
+    "name": "\u041a\u0435\u0442\u0447\u0443\u043f \u041c\u0430\u0445\u0435\u0435\u0432\u044a \"\u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439\" \u041f\u0435\u0440\u0432\u0430\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0414\u041f 300\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4044938.jpg",
+    "plu": 4044938,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 85,
+    "name": "\u041a\u0423\u0425\u041c\u0410\u0421\u0422\u0415\u0420 \u0421\u043e\u0443\u0441 \"\u041a\u0430\u0440\u0440\u0438\" 260\u0433.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064468.jpg",
+    "plu": 4064468,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 86,
+    "name": "\u041a\u0423\u0425\u041c\u0410\u0421\u0422\u0415\u0420 \u0421\u043e\u0443\u0441 \"\u0410\u0434\u0436\u0438\u043a\u0430\" 260\u0433.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064470.jpg",
+    "plu": 4064470,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16461,
+    "name": "\u041f\u0430\u0441\u0442\u0430 \u0442\u043e\u043c\u0430\u0442\u043d\u0430\u044f, \u041a\u0443\u0445\u043c\u0430\u0441\u0442\u0435\u0440, 270 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3436165.jpg",
+    "plu": 3436165,
+    "promo": {
+      "id": 1169479991,
+      "date_begin": "2021-03-16",
+      "date_end": "2021-03-22",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 14485,
+    "name": "\u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u043a\u0435\u0442\u0447\u0443\u043f Heinz 342\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4086400.jpg",
+    "plu": 4086400,
+    "promo": {
+      "id": 1166715645,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19703,
+    "name": "DELICAD.\u0427\u0438\u043f\u0441\u044b \u041d\u0410\u0427\u041e\u0421 \u043a\u0443\u043a\u0443\u0440.\u043e\u0440\u0438\u0433.150\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3463551.jpg",
+    "plu": 3463551,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 67.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19704,
+    "name": "DELICAD.\u0427\u0438\u043f\u0441\u044b \u041d\u0410\u0427\u041e\u0421 \u043a\u0443\u043a\u0443\u0440.\u0441/\u0432\u043a.\u0441\u044b\u0440 150\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3463552.jpg",
+    "plu": 3463552,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 67.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19824,
+    "name": "\u0423\u0445\u0442\u044b\u0448\u043a\u0438 \u0421\u0443\u0445\u0438\u0435 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u0438 \u0433\u043b\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0428\u0430\u0440\u0438\u043a\u0438 \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u0448\u043e\u043a\u043e\u043b\u0430\u0434\u0430 250\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4030128.jpg",
+    "plu": 4030128,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23952,
+    "name": "\u0423\u0412\u0415\u041b\u041a\u0410 \u0425\u043b\u043e\u043f\u044c\u044f \u0433\u0440\u0435\u0447\u043d\u0435\u0432\u044b\u0435 400\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477319.jpg",
+    "plu": 3477319,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 68.0,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19757,
+    "name": "\u0427\u0438\u043f\u0441\u044b Lays, \u043b\u0438\u0441\u0438\u0447\u043a\u0438 \u0432 \u0441\u043c\u0435\u0442\u0430\u043d\u0435, 85 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3671742.jpg",
+    "plu": 3671742,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19758,
+    "name": "LAYS \u0427\u0438\u043f\u0441\u044b \u043a\u0430\u0440\u0442.\u0441\u043e \u0432\u043a\u0443\u0441.\u043d\u0435\u0436.\u0441\u044b\u0440 \u0437\u0435\u043b.85\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3671743.jpg",
+    "plu": 3671743,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19782,
+    "name": "\u041a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c\u043d\u044b\u0435 \u0427\u0438\u043f\u0441\u044b Lay's \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \"\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0431\" 85\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3931228.jpg",
+    "plu": 3931228,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 74.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 66,
+    "name": "\u041c\u0430\u043a\u0430\u0440\u043e\u043d\u043d\u044b\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f \u0438\u0437 \u0442\u0432\u0435\u0440\u0434\u044b\u0445 \u0441\u043e\u0440\u0442\u043e\u0432 \u043f\u0448\u0435\u043d\u0438\u0446\u044b \u0433\u0440\u0443\u043f\u043f\u0430 \u0410, \u0432\u044b\u0441\u0448\u0438\u0439 \u0441\u043e\u0440\u0442, Barilla, \u041a\u0410\u041f\u0415\u041b\u041b\u0418\u041d\u0418 450 \u0433.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037645.jpg",
+    "plu": 4037645,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 67,
+    "name": "\u041c\u0430\u043a\u0430\u0440\u043e\u043d\u043d\u044b\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f \u0438\u0437 \u0442\u0432\u0435\u0440\u0434\u044b\u0445 \u0441\u043e\u0440\u0442\u043e\u0432 \u043f\u0448\u0435\u043d\u0438\u0446\u044b \u0433\u0440\u0443\u043f\u043f\u0430 \u0410, \u0432\u044b\u0441\u0448\u0438\u0439 \u0441\u043e\u0440\u0442, Barilla,\u041f\u0415\u041d\u041d\u0415 \u0420\u0418\u0413\u0410\u0422\u0415 450\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037652.jpg",
+    "plu": 4037652,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 68,
+    "name": "\u041c\u0430\u043a\u0430\u0440\u043e\u043d\u043d\u044b\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f \u0438\u0437 \u0442\u0432\u0435\u0440\u0434\u044b\u0445 \u0441\u043e\u0440\u0442\u043e\u0432 \u043f\u0448\u0435\u043d\u0438\u0446\u044b \u0433\u0440\u0443\u043f\u043f\u0430 \u0410, \u0432\u044b\u0441\u0448\u0438\u0439 \u0441\u043e\u0440\u0442, Barilla,\u041f\u0418\u041f\u0415 \u0420\u0418\u0413\u0410\u0422\u0415 450\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037654.jpg",
+    "plu": 4037654,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 64,
+    "name": "\u041d\u0430\u0431\u043e\u0440 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0430\u0441\u0442\u0430 \"\u041f\u043e\u0440\u0442\u043e\u0431\u0435\u043b\u043b\u043e\" \u0432 \u0433\u0440\u0438\u0431\u043d\u043e\u043c \u0441\u043e\u0443\u0441\u0435\" \"\u0423\u0432\u0435\u043b\u043a\u0430\" 0,34 \u043a\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4027518.jpg",
+    "plu": 4027518,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19741,
+    "name": "\u0425\u043b\u043e\u043f\u044c\u044f \u0437\u0435\u0440\u043d\u043e\u0432\u044b\u0435 \"\u041c\u0443\u043b\u044c\u0442\u0438\u0437\u043b\u0430\u043a\u043e\u0432\u044b\u0435\" 1/250 \u0446/\u043f (\u0422\u041c \"\u041b\u044e\u0431\u044f\u0442\u043e\u0432\u043e\")",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3635443.jpg",
+    "plu": 3635443,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 77.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19806,
+    "name": "\u041c\u0430\u0439\u043e\u043d\u0435\u0437 \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439, Heinz, 67%, 350 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4002440.jpg",
+    "plu": 4002440,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 84.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19683,
+    "name": "\u041e\u0413\u041e \u0417\u0430\u0432\u0442\u0440\u0430\u043a\u0438 \u041c\u042e\u0421\u041b\u0418 \u0437\u0430\u043f.\u0441\u0443\u0445.\u0441 \u0442\u0440\u043e\u043f.\u0444\u0440350\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3417240.jpg",
+    "plu": 3417240,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 89.0,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19799,
+    "name": "\u041c\u0430\u0439\u043e\u043d\u0435\u0437 \"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u041f\u0440\u043e\u0432\u0430\u043d\u0441\u0430\u043b\u044c\" \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u044b\u0439, \u043c\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u0434\u043e\u043b\u044f \u0436\u0438\u0440\u0430 67% 600\u043c\u043b.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3982578.jpg",
+    "plu": 3982578,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23853,
+    "name": "KOTANYI \u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0418\u0422\u0410\u041b.\u0422\u0420.\u0432 \u043c\u0435\u043b\u044c\u043d.48\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/67129.jpg",
+    "plu": 67129,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 106.6,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23860,
+    "name": "KOTANYI \u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 4 \u041f\u0415\u0420\u0426\u0410 \u0432 \u043c\u0435\u043b\u044c\u043d.35\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/89000.jpg",
+    "plu": 89000,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 109.3,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 23866,
+    "name": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 Kotanyi \u0427\u0435\u0441\u043d\u043e\u043a-\u0442\u0440\u0430\u0432\u044b-\u0441\u043e\u043b\u044c 50\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2058397.jpg",
+    "plu": 2058397,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 109.3,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16676,
+    "name": "\u041a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c\u043d\u044b\u0435 \u0447\u0438\u043f\u0441\u044b Lay's Stax \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u041d\u0435\u0436\u043d\u0430\u044f \u0421\u043c\u0435\u0442\u0430\u043d\u0430 \u0438 \u043b\u0443\u043a 140\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4069903.jpg",
+    "plu": 4069903,
+    "promo": {
+      "id": 1169479991,
+      "date_begin": "2021-03-16",
+      "date_end": "2021-03-22",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 152.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16677,
+    "name": "\u041a\u0430\u0440\u0442\u043e\u0444\u0435\u043b\u044c\u043d\u044b\u0435 \u0447\u0438\u043f\u0441\u044b Lay's Stax \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u043b\u0443\u043a 140\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4069908.jpg",
+    "plu": 4069908,
+    "promo": {
+      "id": 1169479991,
+      "date_begin": "2021-03-16",
+      "date_end": "2021-03-22",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 152.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19653,
+    "name": "AXA \u041c\u044e\u0441\u043b\u0438 \u043c\u0435\u0434\u043e\u0432\u044b\u0435 \u0441 \u044f\u0433\u043e\u0434\u0430\u043c\u0438 270\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3224452.jpg",
+    "plu": 3224452,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19716,
+    "name": "AXA \u041c\u044e\u0441\u043b\u0438 \u043c\u0435\u0434\u043e\u0432.\u0448\u043e\u043a\u043e\u043b/\u043e\u0440\u0435\u0445 250\u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3492142.jpg",
+    "plu": 3492142,
+    "promo": {
+      "id": 1163236940,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 11453,
+    "name": "\u0420\u0438\u0441\u043e\u0432\u044b\u0435 \u0447\u0438\u043f\u0441\u044b Pringles \"Asian Collection\" \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \"\u0421\u043e\u0443\u0441\u0430 \u0431\u0430\u0440\u0431\u0435\u043a\u044e \u0442\u0435\u0440\u0438\u044f\u043a\u0438 \u043f\u043e-\u044f\u043f\u043e\u043d\u0441\u043a\u0438\", 160 \u0433\u0440",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3994660.jpg",
+    "plu": 3994660,
+    "promo": {
+      "id": 1165120646,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-03",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 13
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 101,
+    "name": "\u041c\u0430\u0441\u043b\u043e \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u043e\u0435 \u043d\u0435\u0440\u0430\u0444. Extra Virgin, \u0422\u041c \u00abGlobal Village\u00bb, 250\u043c\u043b",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4082388.jpg",
+    "plu": 4082388,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 17
+    },
+    "current_prices": {
+      "price_reg__min": 189.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16430,
+    "name": "\u0417\u0430\u0432\u0442\u0440\u0430\u043a \u0448\u043e\u043a\u043e\u043b\u0430\u0434\u043d\u044b\u0439, \u0433\u043e\u0442\u043e\u0432\u044b\u0439, Nesquick, 700 \u0433",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3368535.jpg",
+    "plu": 3368535,
+    "promo": {
+      "id": 1169479991,
+      "date_begin": "2021-03-16",
+      "date_end": "2021-03-22",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16378,
+    "name": "\u041c\u0430\u0441\u043b\u043e Filippo Berio, Organic, Extra Virgin, Olive Oil, 0,5 \u043b",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2153521.jpg",
+    "plu": 2153521,
+    "promo": {
+      "id": 1169479991,
+      "date_begin": "2021-03-16",
+      "date_end": "2021-03-22",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 399.99,
+      "price_promo__min": 349.99
+    },
+    "store_name": null
+  }
+]
