@@ -1,7 +1,8 @@
 from scrapy.loader import ItemLoader
 from scrapy import Selector
 from itemloaders.processors import TakeFirst, MapCompose, Join
-from .items import GbAutoYoulaItem, GbHhItem
+from .items import GbAutoYoulaItem, GbHhItem, GbInstagramItem
+import datetime
 
 
 def get_characteristics(item):
@@ -26,6 +27,8 @@ def get_employer(item):
 def get_field(item):
     return item.split(', ')
 
+def get_datestr(item):
+    return datetime.date.fromtimestamp(item).isoformat()
 
 class AutoyoulaLoader(ItemLoader):
     default_item_class = dict

@@ -1,4 +1,4 @@
-## Define here the models for your scraped items
+# Define here the models for your scraped items
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
@@ -34,3 +34,27 @@ class GbHhItem(scrapy.Item):
     site_employer = scrapy.Field()
     field_employer = scrapy.Field()
     description_employer = scrapy.Field()
+
+class GbInstagramItem(scrapy.Item):
+    _id = scrapy.Field()
+    tag_name = scrapy.Field()
+    date_parse = scrapy.Field()
+    data = scrapy.Field()
+    images = scrapy.Field()
+
+class GbTagItem(GbInstagramItem):
+    pass
+
+class GbTagPostsCollection(GbInstagramItem):
+    pass
+
+class GbtagPost(GbInstagramItem):
+    pass
+
+
+class GbInstagramUserItem(scrapy.Item):
+    _id = scrapy.Field()
+    user_id = scrapy.Field()
+    user_name = scrapy.Field()
+    followers = scrapy.Field()
+    following = scrapy.Field()
